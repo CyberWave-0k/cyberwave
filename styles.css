@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'MrDafoe-Regular';
-    src: url('/Fonts/MR-Dafoe/MrDafoe-Regular.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/CyberWave-0k/cyberwave/refs/heads/master/Fonts/MR-Dafoe/MrDafoe-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nexa-Heavy';
-    src: url('fonts/Anton,Tomorrow/Tomorrow/Tomorrow-Regular.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/CyberWave-0k/cyberwave/refs/heads/master/Fonts/Anton%2CTomorrow/Tomorrow/Tomorrow-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nexa-ExtraLight';
-    src: url('fonts/nexa/Nexa-ExtraLight.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/CyberWave-0k/cyberwave/refs/heads/master/Fonts/nexa/Nexa-ExtraLight.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Montserrat-Medium';
